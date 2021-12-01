@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ISETKL</string>
+
+    <string-array name="departements">
+        <item>     selectionner    </item>
+        <item>Génie Mécanique</item>
+        <item>Génie des Procédés</item>
+        <item>Technologies de l’Informatique</item>
+    </string-array>
+    <string-array name="classs">
+        <item>     selectionner    </item>
+        <item>TI11</item>
+        <item>TI12</item>
+        <item>TI13</item>
+        <item>MDW21</item>
+        <item>DSI21</item>
+        <item>DSI22</item>
+        <item>DSI23</item>
+        <item>MDW31</item>
+        <item>DSI31</item>
+        <item>DSI32</item>
+        <item>GP11</item>
+        <item>GP12</item>
+        <item>PA21</item>
+        <item>PA31</item>
+        <item>GM11</item>
+        <item>GM12</item>
+        <item>MI21</item>
+        <item>EMN31</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
